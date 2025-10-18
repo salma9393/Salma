@@ -14,3 +14,7 @@ def gen(d):
     except indexerror:print('out of bounds')
     obj-gen([1,2,3])
     print(list(obj))
+
+print(""hello world"")
+
+print(" " " hello world" " ")
